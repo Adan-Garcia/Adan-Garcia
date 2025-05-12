@@ -26,7 +26,7 @@ I’m open to working with others on creative, technical, or experimental game p
 - Game dev hobbyist  
 - 3D printing and CAD enthusiast  
 - FRC Team 340 — 2023-2025 
-- Also into PC building and hardware hacking  
+- Also into PC building
 
 ---
 

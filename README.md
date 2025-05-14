@@ -37,7 +37,7 @@ I’m open to working with others on creative, technical, or experimental game p
 ---
 
 ## 📊 GitHub Stats
-[![Adan's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Coolcreeper221&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Adan's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Coolcreeper221&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Adan's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=adan-garcia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Adan's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=adan-garcia&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 

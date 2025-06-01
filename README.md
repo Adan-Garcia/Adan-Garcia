@@ -31,7 +31,7 @@ I’m open to working with others on creative, technical, or experimental game p
 ---
 
 ## 📫 Reach Me
-- 📧 Email: [adan@adan-garcia.com](mailto:adan@adan-garcia.com)
+- 📧 Email: [adan@adan-garcia.com](mailto:contact@adangarcia.com)
 - 🐙 GitHub: [@adan-garcia](https://github.com/adan-garcia)
 
 ---

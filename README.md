@@ -42,5 +42,5 @@ I’m open to working with others on creative, technical, or experimental game p
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=adan-garcia&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adan-garcia&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adan-garcia&layout=compact&langs_count=8&hide_progress=true&theme=transparent" />
 </a>

@@ -40,7 +40,7 @@ I’m open to working with others on creative, technical, or experimental game p
 [![Adan's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=adan-garcia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Adan's GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=adan-garcia&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-garcia&layout=donut&theme=default#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-garcia&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-garcia&layout=donut&size_weight=0.5&count_weight=0.5&theme=default#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-garcia&layout=donut&size_weight=0.0&count_weight=1.0&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 

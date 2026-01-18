@@ -12,8 +12,7 @@ I'm a self-taught developer who works primarily with **Godot (GDScript)** and **
 ---
 
 ## 🎮 Currently Working On
-**Untitled Chronicle** — a narrative-driven MMO where the dungeon master is AI.  
-Think: persistent world, permadeath, and dynamic storytelling through structured player actions.
+**HomeWork planner** — a privacy focused homework planner
 
 ---
 
